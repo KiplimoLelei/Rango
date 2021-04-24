@@ -73,5 +73,4 @@ isCompleted: true
 },
 ]
  const [{ text }] = todos
- const newTodos = [...todos]
-console.log({text, newTodos});
+console.log({text});
